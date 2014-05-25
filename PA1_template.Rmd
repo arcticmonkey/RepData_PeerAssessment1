@@ -1,5 +1,11 @@
-Reproducible Research: Peer Assessment 1
+Reproducible Research: Peer Assessment 1(updated Version)
 ========================================
+
+http://rpubs.com/ammarraja/18310
+
+Please see the rpubs link for updated version. For some reason plots are not
+showing here, but they are vailable in the figure folder.
+
 by Ammar Raja  
 github repo with RMarkdown source code:
 
